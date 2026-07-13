@@ -246,8 +246,8 @@ const Home = () => {
                 I'm always open to discussing new projects, creative ideas, or opportunities.
               </p>
               <div className="flex flex-col space-y-3" onContextMenu={(e) => e.preventDefault()}>
-                <a href="mailto:ishara@hayyaoe.dev" draggable="false" className="text-gruvbox-blue hover:text-gruvbox-aqua transition-colors w-max select-none">
-                  {">"} Email: ishara@hayyaoe.dev
+                <a href="mailto:lilith@hayyaoe.dev" draggable="false" className="text-gruvbox-blue hover:text-gruvbox-aqua transition-colors w-max select-none">
+                  {">"} Email: lilith@hayyaoe.dev
                 </a>
                 <a href="https://linkedin.com/in/hayyaoe" target="_blank" rel="noreferrer" draggable="false" className="text-gruvbox-blue hover:text-gruvbox-aqua transition-colors w-max select-none">
                   {">"} LinkedIn: linkedin.com/in/hayyaoe
