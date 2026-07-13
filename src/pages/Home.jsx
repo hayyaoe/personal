@@ -95,7 +95,7 @@ const Home = () => {
             <div>
               <h1 className="text-4xl md:text-5xl font-bold text-gruvbox-fg mb-4 tracking-tight uppercase mt-6">Hayya U</h1>
               <div className="bg-gruvbox-bg2 inline-block px-2 sm:px-3 py-1 border border-gruvbox-gray mt-1">
-                <p className="text-xs sm:text-sm md:text-base text-gruvbox-aqua whitespace-nowrap">Software Engineer & AI/ML Enthusiast</p>
+                <p className="text-xs sm:text-sm md:text-base text-gruvbox-fg font-bold whitespace-nowrap">Software Engineer & AI/ML Enthusiast</p>
               </div>
               <nav className="flex flex-wrap gap-6 text-sm text-gruvbox-gray uppercase tracking-widest mt-6">
                 <a href="#about" onClick={(e) => scrollToSection(e, 'about')} className="hover:text-gruvbox-yellow transition-colors hover:underline underline-offset-4">[ About ]</a>
